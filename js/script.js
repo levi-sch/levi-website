@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
       renderer: 'svg',
       loop: false,
       autoplay: true,
-      path: 'js/logo_animatie_01.json' // Zorg dat dit bestand in de juiste map staat
+      path: 'js/lottie/logo_animatie_01.json' // Zorg dat dit bestand in de juiste map staat
     });
   
     // Na 6 seconden verwijderen we het splashscreen

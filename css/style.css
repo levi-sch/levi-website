@@ -1,13 +1,72 @@
+/*fonts*/
+/*open sans*/
+
+  .open-sans-regular {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  }
+  
+  .open-sans-bold {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  }
+  
+  .open-sans-regular-italic {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-variation-settings: "wdth" 100;
+  }
+  
+  .open-sans-bold-italic {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+    font-variation-settings: "wdth" 100;
+  }
+  
+  
+
 /* Algemene reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
-  
+  /*lottie*/
+  #lottie {
+    width: 100%;
+    max-width: 600px; /* Past de grootte aan */
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+
+  /* Splashscreen styling */
+#splash {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  z-index: 1000; /* Zorgt ervoor dat het boven de rest zit */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
   /* Basisstijl */
   body {
-    font-family: Arial, sans-serif;
+    font-family: "Open sans", sans-serif;
     line-height: 1.6;
     background: #f4f4f4;
     color: #333;

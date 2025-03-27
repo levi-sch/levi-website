@@ -1,0 +1,81 @@
+
+Dark Blue
+HEX: #082CCF
+RGB: rgb(8,44,207)
+BIAS: 92%
+
+Drover
+HEX: #3
+RGB: rgb(254,246,172)
+BIAS: 94%
+
+Red Orange
+HEX: #FE2B27
+RGB: rgb(10, 9, 9)
+BIAS: 100%
+
+Maroon
+HEX: #860801
+RGB: rgb(134,8,1)
+BIAS: 96%
+
+Sterke punten
+Visuele impact:
+
+Dark Blue (#082CCF) en Maroon (#860801) geven een professionele, serieuze basis (ideaal voor headers/tekst).
+
+Red Orange (#FE2B27) trekt direct aandacht (perfect voor call-to-action knoppen of belangrijke alerts).
+
+Drover (#FEF6AC) werkt als een zachte achtergrond om de fellere kleuren te laten "ademen".
+
+Emotionele associaties:
+
+Blauw straalt vertrouwen uit (goed voor zakelijke websites).
+
+Rood/oranje creëert urgentie (bv. voor aanbiedingen).
+
+Maroon voegt diepte en luxe toe (geschikt voor premium merken).
+
+Contrast:
+
+Donkere kleuren (Dark Blue, Maroon) combineren goed met de lichte Drover-achtergrond voor leesbaarheid.
+
+Red Orange springt eruit tegen zowel donkere als lichte achtergronden.
+
+Risico’s
+Overstimulatie:
+Te veel gebruik van Red Orange en Maroon samen kan agressief overkomen. Gebruik ze spaarzaam (bijv. alleen voor knoppen of iconen).
+
+Leesbaarheid:
+
+Rode tekst op een donkere achtergrond (Maroon + Dark Blue) kan vermoeiend zijn voor de ogen.
+
+Test de combinatie Red Orange op Drover voor bodytekst—mogelijk te weinig contrast voor kleine letters.
+
+Kleurharmonie:
+De warme tinten (rood/oranje/geel) en koele blauwen kunnen botsen als ze niet goed verdeeld zijn. Gebruik een dominantie van 60% neutrale kleuren (Drover + Dark Blue) en 40% accenten (Red Orange/Maroon).
+
+Suggesties voor toepassing
+==========================
+
+Primaire kleur: Dark Blue (voor navigatie, headers).
+
+Secundair: Maroon (voor subtiele accenten, lijnen of randen).
+
+Accentkleur: Red Orange (voor CTA-knoppen, belangrijke links).
+
+Achtergrond: Drover (om de site luchtig en toegankelijk te houden).
+
+💡 Extra tip: Voeg een neutrale kleur toe (bijv. wit of lichtgrijs) om rust te creëren tussen de felle kleuren.
+
+==========================
+Accessibility-check
+Controleer de contrastratio’s met tools zoals WebAIM:
+
+Dark Blue op Drover: Goed contrast (WCAG-compliant voor tekst).
+
+Red Orange op Dark Blue: Mogelijk te laag contrast voor kleine tekst (gebruik alleen voor grote headings).
+
+Als dit een website voor een energieke, creatieve onderneming is (bv. sport, design, entertainment), past dit palet goed. Voor een zakelijke/financiële website kun je beter Red Orange vervangen door een neutraler accent (bijv. goud of groen). 😊
+
+Laat vooral weten wat het doel van je website is—dan geef ik gerichter advies!
